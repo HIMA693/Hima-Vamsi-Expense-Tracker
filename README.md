@@ -15,6 +15,9 @@ Hima Vamsi Expense Tracker is a desktop application designed to manage personal 
 - Filter by Category
 - SQLite Database Storage
 - Windows Executable (EXE) Version
+## Application Screenshot
+
+![Expense Tracker Dashboard](Screenshot%202026-11-17%20190418.png)
 
 ## Technologies Used
 - Python
